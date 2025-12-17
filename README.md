@@ -12,7 +12,7 @@ Interactive HTML presentation covering scalable Data Quality audit methodologies
 - Alignment with ISO 8000 and DAMA principles
 
 ## Live demo
-👉 https://TU_USUARIO.github.io/data-quality-audit-deck/
+👉 https://jseara118.github.io/Data-Quality-Audit/
 
 ## Purpose
 This project demonstrates how Data Quality concepts can be communicated clearly to
